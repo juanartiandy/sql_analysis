@@ -10,4 +10,5 @@ This SQL Project is aiming to do these exercises:
 Please feel free to take a look at the query.
 
 Thanks, and Cheers!
+
 Juan
